@@ -129,5 +129,5 @@ Cоздан конфигурационный файл системы и созд
 - [PostScript](https://ru.wikipedia.org/wiki/PostScript)
 
 ```
-Copyright (c) 2017 Братья Вершинины
+Copyright (c) 2018 Михайлов Алексей
 ```
